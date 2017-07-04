@@ -136,7 +136,7 @@ func udpCreatePackageSend(conn net.PacketConn, raddr *net.Addr, cmd uint8, realD
 		return
 	}
 
-	fmt.Println("send to", *raddr, *sendPackage)
+	fmt.Println(conn.LocalAddr().String(), "send to", *raddr, *sendPackage)
 }
 
 func udpClientSendTestDataToSever(conn net.PacketConn) {

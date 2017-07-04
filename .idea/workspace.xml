@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621d39c6-177e-48c2-9b41-bb537086ba81" name="Default" comment="" />
+    <list default="true" id="621d39c6-177e-48c2-9b41-bb537086ba81" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/assist" afterPath="$PROJECT_DIR$/assistServer/assist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/transit" afterPath="$PROJECT_DIR$/assistServer/transit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/client" afterPath="$PROJECT_DIR$/client/client" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server" afterPath="$PROJECT_DIR$/server/server" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__p2p_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__p2p_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/p2p.iml" afterPath="$PROJECT_DIR$/.idea/p2p.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1" afterPath="$PROJECT_DIR$/1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/main.go" afterPath="$PROJECT_DIR$/assistServer/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/tcp.go" afterPath="$PROJECT_DIR$/assistServer/tcp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/udp.go" afterPath="$PROJECT_DIR$/assistServer/udp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.go" afterPath="$PROJECT_DIR$/client/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/tcp.go" afterPath="$PROJECT_DIR$/client/tcp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/udp.go" afterPath="$PROJECT_DIR$/client/udp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/common.go" afterPath="$PROJECT_DIR$/common/common.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/proto.go" afterPath="$PROJECT_DIR$/common/proto.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/tcp.go" afterPath="$PROJECT_DIR$/common/tcp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/tool.go" afterPath="$PROJECT_DIR$/common/tool.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/udp.go" afterPath="$PROJECT_DIR$/common/udp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.go" afterPath="$PROJECT_DIR$/readme.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/main.go" afterPath="$PROJECT_DIR$/server/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/tcp.go" afterPath="$PROJECT_DIR$/server/tcp.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/udp.go" afterPath="$PROJECT_DIR$/server/udp.go" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +41,8 @@
       <file leaf-file-name="udp.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assistServer/udp.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
               <folding>
                 <element signature="e#14#51#0" expanded="true" />
               </folding>
@@ -39,7 +65,7 @@
       <file leaf-file-name="tool.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/tool.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="198">
               <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="e#16#89#0" expanded="true" />
@@ -60,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="udp.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="udp.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/udp.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="105" column="64" lean-forward="true" selection-start-line="105" selection-start-column="64" selection-end-line="105" selection-end-column="64" />
+            <state relative-caret-position="517">
+              <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="e#14#59#0" expanded="true" />
               </folding>
@@ -72,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+            <state relative-caret-position="225">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -105,8 +131,8 @@
       <file leaf-file-name="proto.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/proto.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="248">
+              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
               <folding>
                 <element signature="e#16#48#0" expanded="true" />
               </folding>
@@ -161,6 +187,9 @@
       <dir>D:\Documents\mygo\src\github.com\jbenet\go-reuseport</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -182,8 +211,8 @@
         <option value="$PROJECT_DIR$/assistServer/main.go" />
         <option value="$PROJECT_DIR$/common/proto.go" />
         <option value="$PROJECT_DIR$/server/main.go" />
-        <option value="$PROJECT_DIR$/client/udp.go" />
         <option value="$PROJECT_DIR$/client/main.go" />
+        <option value="$PROJECT_DIR$/client/udp.go" />
       </list>
     </option>
   </component>
@@ -198,6 +227,9 @@
     <option name="y" value="-4" />
     <option name="width" value="1928" />
     <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -370,7 +402,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -682,51 +714,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/udp.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
-          <folding>
-            <element signature="e#16#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/tool.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#16#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assistServer/udp.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assistServer/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/proto.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-          <folding>
-            <element signature="e#16#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,21 +740,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/udp.go">
+    <entry file="file://$PROJECT_DIR$/client/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="105" column="64" lean-forward="true" selection-start-line="105" selection-start-column="64" selection-end-line="105" selection-end-column="64" />
+        <state relative-caret-position="225">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/udp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
           <folding>
-            <element signature="e#14#59#0" expanded="true" />
+            <element signature="e#16#82#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.go">
+    <entry file="file://$PROJECT_DIR$/assistServer/udp.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tool.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/proto.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/udp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
