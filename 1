@@ -1,0 +1,17 @@
+pubilcAddr=/usr/local/nginx/html
+
+cd assistServer
+go build ./*.go
+mv ./main ./assist
+cp ./assist $pubilcAddr
+
+cd ../server
+go build ./*.go
+mv ./main ./server
+cp ./server $pubilcAddr
+
+cd ../client
+go build ./*.go
+mv ./main ./client
+cp ./client $pubilcAddr
+
