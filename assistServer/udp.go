@@ -109,7 +109,8 @@ func udpClientLoginTransitRep(conn *net.UDPConn, raddr *net.UDPAddr, realData []
 	}
 
 	if state == 0 {
-		saddr := common.ChangePrivateIpToPubilc(serverAddr.String())
+		//saddr := common.ChangePrivateIpToPubilc(serverAddr.String())
+		saddr := serverAddr.String()
 		dataLen := 1 + len(saddr)
 		data := make([]byte, dataLen)
 		data[0] = byte(state)

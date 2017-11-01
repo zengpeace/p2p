@@ -35,6 +35,10 @@ func udp(clientString string, proxyString string) int {
 		return -2
 	}
 
+	//fmt.Println("prepare to login assist !")
+	//var tmpString string
+	//fmt.Scanf("%s", &tmpString)
+
 	udpClientTryToLoginAssist(listenConn)
 	return 0
 }

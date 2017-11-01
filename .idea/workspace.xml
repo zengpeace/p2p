@@ -10,6 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/p2p.iml" afterPath="$PROJECT_DIR$/.idea/p2p.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1" afterPath="$PROJECT_DIR$/1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assistServer/main.go" afterPath="$PROJECT_DIR$/assistServer/main.go" />
